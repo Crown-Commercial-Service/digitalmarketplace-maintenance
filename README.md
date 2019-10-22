@@ -1,5 +1,7 @@
 # Digital Marketplace Maintenance Page
 
+> As of October 2019 the Digital Marketplace is no longer maintaining this repository. Use the [GOV.UK Design System](https://design-system.service.gov.uk/) components for creating static pages.
+
 The code in here was used to create our [maintenance page](https://github.com/alphagov/digitalmarketplace-aws/blob/master/playbooks/roles/nginx/files/maintenance.html). More generally, it is helpful for creating static pages for the Digital Marketplace.
 
 ### What it does specifically
